@@ -22,9 +22,7 @@ def get_args():
         description='Rock the Casbah',
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
-    parser.add_argument('picture',
-                        help='A picture file',
-                        metavar='FILE')
+    parser.add_argument('picture', help='A picture file', metavar='FILE')
     parser.add_argument('-o',
                         '--output',
                         help='An output file',

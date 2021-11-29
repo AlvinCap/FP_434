@@ -4,7 +4,7 @@
 # Create a python program called Seasons; that will allow the user to input a picture text file and make a judgement on whether the season is spring/summer, fall, winter based on color distrbutions. 
 
 # Application Examples: 
-# Weather Station building softawre to filter and feed the photo stream of user uploaded content by seasons. 
+# Weather Station building software to filter and feed the photo stream of user uploaded content by seasons. 
 # Private Company running data anlysis on photo dumps to draw links and parallels between associated seasons and photo content. 
 
 # Parameters for the program include: 
@@ -27,7 +27,7 @@ optional arguments:
 # "No such file or directory:"
 # The arguement parser is setup such that the program should error out for a bad file input.
 # The program will on good input, scan and verify the color distribution levels in the file provided and display a mini summary statement for the findings that will ultimately power the prediction.
-# The program will handle much of workload behind the user interface and will work to simply output a season as a preliminary anlaysis tool. 
+# The program will handle much of workload behind the user interface and will work to simply output a season as a preliminary analysis tool. 
 
 
 # The program should pass all tests:
