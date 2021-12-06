@@ -1,13 +1,13 @@
 # Final Project -- BE434 
 
 # INTRODUCTION: 
-# Create a python program called Seasons; that will allow the user to input a picture text file and make a judgement on whether the season is spring/summer, fall, winter based on color distrbutions. 
+# Create a python program called Seasons; that will allow the user to input a picture text file and make a judgement on whether the season is spring/summer, fall, winter based on color levels. 
 
-# Application Examples: 
+# EXAMPLES: 
 # Weather Station building software to filter and feed the photo stream of user uploaded content by seasons. 
 # Private Company running data anlysis on photo dumps to draw links and parallels between associated seasons and photo content. 
 
-# Parameters for the program include: 
+# PROGRAM ARGUEMENTS: 
 # -p: --picture: picture text file that the user must provide for the program to run; no default 
 # -o: --output: output text file that contains the response to the season inqury, is optional and can be ommitted by user. Text then displays in command line terminal. 
 
